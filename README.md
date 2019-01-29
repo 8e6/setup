@@ -11,7 +11,6 @@ _**Release**_ - [![Releases](https://img.shields.io/github/release/<github-usern
 **Group 2 badge** - [![GroupBadge ](https://img.shields.io/badge/Group%202-Amazing-%2343c7e8.svg)](https://github.com/<8e6>/sem/groupBadge)
 
 
-
 # This is the README file in markup text
 
 making text `monospace` in markup text
