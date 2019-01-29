@@ -1,5 +1,6 @@
 Does this become the same size as H1 
 ============
+**Master Build Status** - [![Build Status](https://travis-ci.org/8e6/setup.svg?branch=master)](https://travis-ci.org/8e6/setup)
 
 # This is the README file in markup text
 
