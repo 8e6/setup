@@ -2,6 +2,8 @@ Does this become the same size as H1
 ============
 **Master Build Status** - [![Build Status](https://travis-ci.org/8e6/setup.svg?branch=master)](https://travis-ci.org/8e6/setup)
 
+**Develop Build status** - [![Build Status](https://travis-ci.org/8e6/setup.svg?branch=develop)](https://travis-ci.org/8e6/setup)
+
 _**License**_ - [![LICENSE](https://img.shields.io/github/license/<8e6>/sem.svg?style=flat-square)](https://github.com/<8e6>/sem/blob/master/LICENSE)
 
 _**Release**_ - [![Releases](https://img.shields.io/github/release/<github-username>/sem/all.svg?style=flat-square)](https://github.com/<github-username>/sem/releases)
