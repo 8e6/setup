@@ -8,7 +8,7 @@ _**Release**_ - [![Releases](https://img.shields.io/github/release/<github-usern
 
 **unique to us**- [![Releases](https://img.shields.io/badge/setup%20-amazing-%233fc2e2.svg)](https://github.com/<8e6>/sem/releases)
 
-**Group 2 badge** - [![GroupBadge ](https://img.shields.io/badge/Group%202-Amazing-%2343c7e8.svg)](https://github.com/<8e6>/sem/groupBadge)
+**Group 2 badge** - [![GroupBadge](https://img.shields.io/badge/Group%202-amazing-%2343c7e8.svg)](https://github.com/<8e6>/sem/groupBadge)
 
 
 # This is the README file in markup text
