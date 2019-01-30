@@ -2,9 +2,9 @@ Does this become the same size as H1
 ============
 **Master Build Status** - [![Build Status](https://travis-ci.org/8e6/setup.svg?branch=master)](https://travis-ci.org/8e6/setup)
 
-_**License**_ - [![LICENSE](https://img.shields.io/github/license/<8e6>/sem.svg?style=flat-square)](https://github.com/8e6/setup/blob/master/LICENSE)
+_**License**_ - [![LICENSE](https://img.shields.io/github/license/8e6/setup.svg?style=flat-square)](https://github.com/8e6/setup/blob/master/LICENSE)
 
-_**Release**_ - [![Releases](https://img.shields.io/github/release/<github-username>/sem/all.svg?style=flat-square)](https://github.com/8e6/setup/releases)
+_**Release**_ - [![Releases](https://img.shields.io/github/release/8e6/setup/all.svg?style=flat-square)](https://github.com/8e6/setup/releases)
 
 **unique to us**- [![Releases](https://img.shields.io/badge/setup%20-amazing-%233fc2e2.svg)](https://github.com/<8e6>/sem/releases)
 
